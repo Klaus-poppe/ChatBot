@@ -7,7 +7,7 @@
 * in terminal type `ng serve`
 * Start server and go to `http://localhost:4200` in your browser
 
-## How to get a copy of the project
+## To get a copy of the project
 ```
 git clone https://github.com/Klaus-poppe/advJava
 git checkout [BranchName]  
@@ -18,13 +18,13 @@ git checkout [BranchName]
 git pull origin master
 this command will make sure u r up to date with the main branch 
 ```
-## When u want to upload your changes
+## To upload your changes
 ```
 git add .
 git commit -m "short message about the commit"
 git push origin [BranchName] 
 ```
-## If u wish to create a new branch 
+## To create a new branch 
 ```
 git branch [branchName]
 ```
